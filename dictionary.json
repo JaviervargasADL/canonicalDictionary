@@ -17,6 +17,9 @@
           },
           "tag": {
             "type": "string"
+          },
+          "tag2":{
+            "type": "string"
           }
         }
       }
